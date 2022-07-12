@@ -1,1 +1,26 @@
 Виконання тестових завдань GIT
+
+Друзі, ми вже маємо для вас підбірку корисних матеріалів, які рекомендуємо для ознайомлення та вивчення в першу чергу, оскільки на початку курсу в перших темах буде git.
+
+1. https://dzone.com/articles/top-35-git-commands-with-examples-and-bonus
+2. https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/
+3. https://youtu.be/Lr7sYCrhxE0
+
+Якщо у когось виникатимуть питання або ж коментарі по матеріалам — велкам до обговорення тут)
+
+
+Для тих, хто знайшов можливість, переглянути наші попередні корисні матеріали, ми надсилаємо наступну порцію.
+
+1. Загальна інформація про Linux, яка більш корисною буде для початківців:  https://www.codementor.io/linux/tutorial/10-things-every-linux-beginner-should-know
+
+2. Короткий опис про файлову систему: Filesystems: A Brief Introduction. http://www.linfo.org/filesystem.html
+
+3. Базово про мережі: Learn the networking basics every sysadmin needs to know https://www.redhat.com/sysadmin/sysadmin-essentials-networking-basics
+
+4. How to Manage and List Services in Linux. https://www.hostinger.com/tutorials/manage-and-list-services-in-linux/
+
+5. Unix / Linux - Processes Management. https://www.tutorialspoint.com/unix/unix-processes.htm
+
+Тут також можете поділитись цікавими матеріалами по Linux на вашу думку.
+
+А ми в свою чергу готуємось до відновлення всіх наших навчальних процесів і вже зовсім скоро повернемось до вас з апдейтами
